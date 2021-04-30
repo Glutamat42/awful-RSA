@@ -1,0 +1,3 @@
+/home/markus/Nextcloud/hke/Studium/Master/3. Semester/Echtzeitsysteme/cpp_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/markus/Nextcloud/hke/Studium/Master/3. Semester/Echtzeitsysteme/cpp_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/markus/Nextcloud/hke/Studium/Master/3. Semester/Echtzeitsysteme/cpp_code/cmake-build-debug/CMakeFiles/cpp_code.dir
